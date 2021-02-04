@@ -7,11 +7,11 @@
     <formula>IF($Setup.copado__Settings__c.copado__Namespace__c != &apos;none&apos;,
 IF(
 TEXT(copado__Back_Promotion_Behavior__c) == &apos;Scheduled&apos;, 
-HYPERLINK(&quot;/apex/copado__ScheduleConnectionBehavior?id=&quot; + Id + &quot;&amp;promotionType=Back_Promotion&quot;, IF(   ISBLANK(copado__Back_Promotion_Schedule__c), &quot;Schedule Back-Promotion&quot;, copado__Back_Promotion_Schedule__c),&apos;_self&apos;),
+HYPERLINK(&quot;/apex/copado__ScheduleConnectionBehavior?id=&quot; + Id + &quot;&amp;promotionType=Back_Promotion&quot;, &quot;Schedule Back-Promotion&quot;,&apos;_self&apos;),
 &apos;&apos;),
 IF(
 TEXT(copado__Back_Promotion_Behavior__c) == &apos;Scheduled&apos;, 
-HYPERLINK(&quot;/apex/ScheduleConnectionBehavior?id=&quot; + Id + &quot;&amp;promotionType=Back_Promotion&quot;, IF(   ISBLANK(copado__Back_Promotion_Schedule__c), &quot;Schedule Back-Promotion&quot;, copado__Back_Promotion_Schedule__c),&apos;_self&apos;),
+HYPERLINK(&quot;/apex/ScheduleConnectionBehavior?id=&quot; + Id + &quot;&amp;promotionType=Back_Promotion&quot;, &quot;Schedule Back-Promotion&quot;,&apos;_self&apos;),
 &apos;&apos;)
 )</formula>
     <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>

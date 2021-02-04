@@ -7,6 +7,7 @@
     <externalId>false</externalId>
     <inlineHelpText>Indicates the product on this line item is bundled (included) by another product in this quote. Bundled lines items have a zero price and do not allow price or quantity to be edited.</inlineHelpText>
     <label>Bundled</label>
+    <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
     <type>Checkbox</type>
 </CustomField>

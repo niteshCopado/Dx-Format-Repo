@@ -7,6 +7,7 @@
     <externalId>false</externalId>
     <inlineHelpText>Indicates whether this line item represents a package; meaning, it includes other line items in this quote.</inlineHelpText>
     <label>Package</label>
+    <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
     <type>Checkbox</type>
 </CustomField>

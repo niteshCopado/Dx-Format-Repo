@@ -7,6 +7,7 @@
     <externalId>false</externalId>
     <inlineHelpText>If checked, the User Story will not be indexed for Copado&apos;s Overlap Awareness.</inlineHelpText>
     <label>Stop Indexing Metadata</label>
+    <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>
 </CustomField>

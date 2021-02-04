@@ -7,6 +7,7 @@
     <inlineHelpText>A description of each component in this package.</inlineHelpText>
     <label>Package Product Description</label>
     <length>32000</length>
+    <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
     <type>Html</type>
     <visibleLines>25</visibleLines>

@@ -28,7 +28,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>External_Id__c</field>
+                <field>Validation__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

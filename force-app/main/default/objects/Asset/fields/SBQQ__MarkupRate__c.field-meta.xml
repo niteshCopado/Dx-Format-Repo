@@ -9,6 +9,7 @@
     <precision>8</precision>
     <required>false</required>
     <scale>2</scale>
+    <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
     <type>Percent</type>
 </CustomField>

@@ -9,10 +9,6 @@
         <value><!-- Step --></value>
     </caseValues>
     <fieldSets>
-        <label><!-- Deployment Steps --></label>
-        <name>copado__Deployment_Steps</name>
-    </fieldSets>
-    <fieldSets>
         <label><!-- ViewDeploymentColumns --></label>
         <name>copado__ViewDeploymentColumns</name>
     </fieldSets>

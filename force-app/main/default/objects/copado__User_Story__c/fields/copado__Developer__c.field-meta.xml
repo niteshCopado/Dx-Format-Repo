@@ -9,6 +9,7 @@
     <relationshipLabel>User Stories (Developer)</relationshipLabel>
     <relationshipName>User_Stories_developer</relationshipName>
     <required>false</required>
+    <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Lookup</type>
 </CustomField>

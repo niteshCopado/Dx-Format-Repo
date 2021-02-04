@@ -5,7 +5,7 @@
     <description>Automatically change the status of user stories after deploying them to the target environment</description>
     <externalId>false</externalId>
     <inlineHelpText>What status should user stories be set to after they are successfully deployed?</inlineHelpText>
-    <label>User Story Status After Promotion</label>
+    <label>Story Status After Deployment</label>
     <required>false</required>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

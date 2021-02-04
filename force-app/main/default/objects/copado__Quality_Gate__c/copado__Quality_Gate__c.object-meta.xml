@@ -155,12 +155,12 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Automation</label>
+    <label>Quality Gate</label>
     <nameField>
-        <label>Automation Name</label>
+        <label>Quality Gate Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Automations</pluralLabel>
+    <pluralLabel>Quality Gates</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

@@ -3,5 +3,5 @@
     <help><!-- What Connection Behavior is this Quality Gate attached to? --></help>
     <label><!-- Parent Connection Behavior --></label>
     <name>copado__Connection_Behavior__c</name>
-    <relationshipLabel><!-- Automations --></relationshipLabel>
+    <relationshipLabel><!-- Quality Gates --></relationshipLabel>
 </CustomFieldTranslation>

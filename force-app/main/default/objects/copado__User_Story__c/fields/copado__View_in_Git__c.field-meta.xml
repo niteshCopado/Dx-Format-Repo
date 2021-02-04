@@ -25,6 +25,7 @@
     <inlineHelpText>Link to the User Story feature branch in Git. The link is generated based on the Base Branch URL of the Git Repository record.</inlineHelpText>
     <label>View in Git</label>
     <required>false</required>
+    <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Text</type>
     <unique>false</unique>

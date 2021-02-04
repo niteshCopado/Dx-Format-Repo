@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <recordTypes>
-        <label><!-- Person Account --></label>
-        <name>Person_Account</name>
-    </recordTypes>
-    <recordTypes>
-        <label><!-- Person Account 2 --></label>
-        <name>Person_Account_2</name>
-    </recordTypes>
     <webLinks>
         <label><!-- Billing --></label>
         <name>Billing</name>

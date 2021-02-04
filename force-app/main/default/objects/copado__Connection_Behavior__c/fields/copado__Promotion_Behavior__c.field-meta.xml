@@ -5,7 +5,7 @@
     <description>How should user stories be deployed from lower (dev/test) environments to higher environments (test/prod)</description>
     <externalId>false</externalId>
     <inlineHelpText>How should user stories be deployed from lower (dev/test) environments to higher environments (test/prod)</inlineHelpText>
-    <label>Promotion Execution</label>
+    <label>Deployment Behavior</label>
     <required>true</required>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

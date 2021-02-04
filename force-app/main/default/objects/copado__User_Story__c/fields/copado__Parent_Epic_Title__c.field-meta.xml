@@ -6,6 +6,7 @@
     <formula>copado__Epic__r.copado__Epic_Title__c</formula>
     <label>Parent Epic Title</label>
     <required>false</required>
+    <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Text</type>
     <unique>false</unique>

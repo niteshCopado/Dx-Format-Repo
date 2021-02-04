@@ -47,6 +47,11 @@
         <isRequired>false</isRequired>
     </availableFields>
     <availableFields>
+        <field>copado__Deployment_Type__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </availableFields>
+    <availableFields>
         <field>copado__Deployment_command_sent__c</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
@@ -98,11 +103,6 @@
     </availableFields>
     <availableFields>
         <field>copado__Promotion__c</field>
-        <isFieldManaged>false</isFieldManaged>
-        <isRequired>false</isRequired>
-    </availableFields>
-    <availableFields>
-        <field>RecordTypeId</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
     </availableFields>

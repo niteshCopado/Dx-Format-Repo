@@ -4,7 +4,5 @@
     <fields>Name</fields>
     <fields>copado__Type__c</fields>
     <fields>copado__Metadata_Group__c</fields>
-    <fields>copado__Execution_Sequence__c</fields>
-    <fields>copado__Automation_Template__c</fields>
     <label>Quality Gate Compact Layout</label>
 </CompactLayout>

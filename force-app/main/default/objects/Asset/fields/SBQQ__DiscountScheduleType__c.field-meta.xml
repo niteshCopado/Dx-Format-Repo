@@ -7,6 +7,7 @@
     <inlineHelpText>Discount schedule type. Copied from Type field in associated discount schedule.</inlineHelpText>
     <label>Discount Schedule Type</label>
     <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
     <type>Picklist</type>
     <valueSet>

@@ -3,5 +3,5 @@
     <help><!-- If &apos;Selenium Test&apos; is selected as the type, what Selenium Test Group should be run? --></help>
     <label><!-- Selenium Test Group --></label>
     <name>copado__Selenium_Test_Group__c</name>
-    <relationshipLabel><!-- Automations --></relationshipLabel>
+    <relationshipLabel><!-- Quality Gates --></relationshipLabel>
 </CustomFieldTranslation>

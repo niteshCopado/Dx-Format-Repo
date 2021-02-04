@@ -8,6 +8,7 @@
     <inlineHelpText>What Connection Behavior is this Quality Gate attached to?</inlineHelpText>
     <label>Parent Connection Behavior</label>
     <referenceTo>copado__Connection_Behavior__c</referenceTo>
+    <relationshipLabel>Quality Gates</relationshipLabel>
     <relationshipName>Quality_Gates</relationshipName>
     <required>true</required>
     <trackTrending>false</trackTrending>

@@ -162,7 +162,6 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Deployments</pluralLabel>
-    <recordTypeTrackHistory>false</recordTypeTrackHistory>
     <searchLayouts>
         <customTabListAdditionalFields>copado__Date__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>copado__From_Org__c</customTabListAdditionalFields>

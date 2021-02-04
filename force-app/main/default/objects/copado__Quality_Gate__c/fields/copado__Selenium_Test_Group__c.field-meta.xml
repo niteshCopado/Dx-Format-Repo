@@ -8,6 +8,7 @@
     <inlineHelpText>If &apos;Selenium Test&apos; is selected as the type, what Selenium Test Group should be run?</inlineHelpText>
     <label>Selenium Test Group</label>
     <referenceTo>copado__Selenium_Test_Group__c</referenceTo>
+    <relationshipLabel>Quality Gates</relationshipLabel>
     <relationshipName>Quality_Gates</relationshipName>
     <required>false</required>
     <trackTrending>false</trackTrending>

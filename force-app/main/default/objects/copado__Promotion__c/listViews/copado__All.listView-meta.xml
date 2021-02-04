@@ -6,10 +6,7 @@
     <columns>copado__Project__c</columns>
     <columns>copado__Release__c</columns>
     <columns>copado__Source_Environment__c</columns>
-    <columns>copado__Back_Promotion__c</columns>
     <columns>copado__Status__c</columns>
-    <columns>CREATED_DATE</columns>
     <filterScope>Everything</filterScope>
     <label>All</label>
-    <language>en_US</language>
 </ListView>

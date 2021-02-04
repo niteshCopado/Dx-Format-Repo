@@ -8,6 +8,7 @@
     <label>Dynamic Option ID</label>
     <length>40</length>
     <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
     <type>Text</type>
     <unique>false</unique>

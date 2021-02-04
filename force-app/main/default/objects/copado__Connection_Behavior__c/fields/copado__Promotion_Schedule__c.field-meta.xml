@@ -5,7 +5,7 @@
     <description>The schedule for deployments (if they are scheduled)</description>
     <externalId>false</externalId>
     <inlineHelpText>The schedule for deployments (if they are scheduled)</inlineHelpText>
-    <label>Promotion Schedule</label>
+    <label>Deployment Schedule</label>
     <length>255</length>
     <required>false</required>
     <trackHistory>false</trackHistory>
